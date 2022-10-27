@@ -3,4 +3,4 @@
 > ### Layout do projeto, disponibilizado no Figma.
 
 
-![preview](./public/figma.PNG)
+![preview](./Public/figma.PNG)
