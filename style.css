@@ -10,6 +10,7 @@
 body{
     height: 100vh;
     background: #2C2B3D;
+
 }
 
 nav {
@@ -87,8 +88,8 @@ footer {
 
 .padlock{
     position: fixed;
-    bottom: 0px;
-    right: 196vh;
+    bottom: 20px;
+    right: 96% ;
 }
 
 
